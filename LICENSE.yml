@@ -1,0 +1,12 @@
+name: "pm_rpi4_drv"
+version: 1.0
+files:
+  - "include/*"
+  - "src/*"
+  - "Makefile"
+  - "deps.mk"
+
+licenses:
+  - gpl2:
+    name: "GPL2.0"
+    file: "LICENSE-GPL-2.0"
